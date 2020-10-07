@@ -11,4 +11,4 @@ HSC result 2020 prediction using machine mearning
  <li>Pandas</li>
 </ol>
 model.predict([['JSC','SSC']) -> HSC Result
-![alt text](https://github.com/FaisalAhmedBijoy/HSC-Result/blob/main/jschasc.PNG)
+
